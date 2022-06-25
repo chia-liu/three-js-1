@@ -1,0 +1,41 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Belleza', Helvetica, sans-serif;
+}
+
+html,
+body
+{
+    height: 100vh;
+    background-color: #24242424;
+}
+
+.webgl
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    outline: none;
+    mix-blend-mode: hard-light;
+}
+
+.container{
+    height: 100ch;
+    display: grid;
+    place-items: center; 
+}
+.title{
+    color: #fff;
+    font-size: 8rem;
+    letter-spacing: 0.5rem;
+    text-transform: uppercase;
+}
+
+.hero{
+    height: 100%;
+    background-color: #E9FF70;
+}
+
+/*# sourceMappingURL=main.css.map*/
